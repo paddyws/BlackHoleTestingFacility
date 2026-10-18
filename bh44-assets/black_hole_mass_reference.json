@@ -1,0 +1,1389 @@
+[
+  {
+    "name": "Circinus",
+    "log_mbh_msun": 6.25,
+    "log_mbh_err_plus": 0.07,
+    "log_mbh_err_minus": 0.08,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 1778279.410038923,
+    "mbh_err_plus_msun": 311016.72081511794,
+    "mbh_err_minus_msun": 299171.0218707158,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 4.21,
+    "mass_reference_table1_ids": [
+      39
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 39,
+        "bibliography_key": "Greenhill:2003a",
+        "citation": "Greenhill L. J., et al., 2003b",
+        "doi": "https://doi.org/10.1086/374862"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "Cygnus A",
+    "log_mbh_msun": 9.44,
+    "log_mbh_err_plus": 0.11,
+    "log_mbh_err_minus": 0.14,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 2754228703.3381634,
+    "mbh_err_plus_msun": 793905188.9975824,
+    "mbh_err_minus_msun": 758966388.3692887,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 258.4,
+    "mass_reference_table1_ids": [
+      40
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 40,
+        "bibliography_key": "Tadhunter:2003",
+        "citation": "Tadhunter C., Marconi A., Axon D., Wills K., Robinson T. G., Jackson N., 2003",
+        "doi": "https://doi.org/10.1046/j.1365-8711.2003.06588.x"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "ESO558-G009",
+    "log_mbh_msun": 7.26,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.04,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 18197008.586099826,
+    "mbh_err_plus_msun": 1301437.411480628,
+    "mbh_err_minus_msun": 1601139.511724228,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 115.4,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "IC 2560",
+    "log_mbh_msun": 6.49,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.1,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 3090295.432513592,
+    "mbh_err_plus_msun": 625056.8584581362,
+    "mbh_err_minus_msun": 635586.5168285584,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 31.0,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "J0437+2456",
+    "log_mbh_msun": 6.51,
+    "log_mbh_err_plus": 0.04,
+    "log_mbh_err_minus": 0.05,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 3235936.569296281,
+    "mbh_err_plus_msun": 312197.3230394721,
+    "mbh_err_minus_msun": 351905.066169675,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 72.2,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "Milky Way",
+    "log_mbh_msun": 6.6,
+    "log_mbh_err_plus": 0.02,
+    "log_mbh_err_minus": 0.02,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 3981071.7055349695,
+    "mbh_err_plus_msun": 187622.12916837726,
+    "mbh_err_minus_msun": 179177.74232935673,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "p",
+    "mbh_method": "Stellar proper motion",
+    "adopted_distance_mpc": 0.008,
+    "mass_reference_table1_ids": [
+      17
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 17,
+        "bibliography_key": "Boehle:2016",
+        "citation": "Boehle A., et al., 2016",
+        "doi": "https://doi.org/10.3847/0004-637X/830/1/17"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "Mrk 1029",
+    "log_mbh_msun": 6.33,
+    "log_mbh_err_plus": 0.1,
+    "log_mbh_err_minus": 0.13,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 2137962.0895022326,
+    "mbh_err_plus_msun": 553572.7144246814,
+    "mbh_err_minus_msun": 553068.8970411185,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 136.9,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 0224",
+    "log_mbh_msun": 8.15,
+    "log_mbh_err_plus": 0.22,
+    "log_mbh_err_minus": 0.1,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 141253754.46227553,
+    "mbh_err_plus_msun": 93169127.06971723,
+    "mbh_err_minus_msun": 29051909.03207901,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 0.75,
+    "mass_reference_table1_ids": [
+      42
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 42,
+        "bibliography_key": "Bender:2005",
+        "citation": "Bender R., et al., 2005",
+        "doi": "https://doi.org/10.1086/432434"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 0253",
+    "log_mbh_msun": 7.0,
+    "log_mbh_err_plus": 0.3,
+    "log_mbh_err_minus": 0.3,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 10000000.0,
+    "mbh_err_plus_msun": 9952623.149688788,
+    "mbh_err_minus_msun": 4988127.663727275,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 3.47,
+    "mass_reference_table1_ids": [
+      43
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 43,
+        "bibliography_key": "Rodriguez-Rico:2006",
+        "citation": "Rodr\\'\\iguez-Rico C. A., Goss W. M., Zhao J.-H., G\\'omez Y., Anantharamaiah K. R., 2006",
+        "doi": "https://doi.org/10.1086/503796"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch. Table 1 footnote d assigns a factor-of-two uncertainty (tabulated as 0.30 dex)."
+  },
+  {
+    "name": "NGC 1068",
+    "log_mbh_msun": 6.75,
+    "log_mbh_err_plus": 0.02,
+    "log_mbh_err_minus": 0.02,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 5623413.251903491,
+    "mbh_err_plus_msun": 265023.3016523924,
+    "mbh_err_minus_msun": 253095.28820095863,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 10.1,
+    "mass_reference_table1_ids": [
+      44
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 44,
+        "bibliography_key": "Lodato:2003",
+        "citation": "Lodato G., Bertin G., 2003",
+        "doi": "https://doi.org/10.1051/0004-6361:20021672"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 1097",
+    "log_mbh_msun": 8.38,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 239883291.90194947,
+    "mbh_err_plus_msun": 17156286.374936998,
+    "mbh_err_minus_msun": 16011178.045114785,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 24.9,
+    "mass_reference_table1_ids": [
+      45
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 45,
+        "bibliography_key": "Onishi:2015",
+        "citation": "Onishi K., Iguchi S., Sheth K., Kohno K., 2015",
+        "doi": "https://doi.org/10.1088/0004-637X/806/1/39"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 1300",
+    "log_mbh_msun": 7.71,
+    "log_mbh_err_plus": 0.17,
+    "log_mbh_err_minus": 0.12,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 51286138.39913648,
+    "mbh_err_plus_msun": 24571619.10378188,
+    "mbh_err_minus_msun": 12381623.899708435,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 14.5,
+    "mass_reference_table1_ids": [
+      46
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 46,
+        "bibliography_key": "Atkinson:2005",
+        "citation": "Atkinson J. W., et al., 2005",
+        "doi": "https://doi.org/10.1111/j.1365-2966.2005.08904.x"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 1320",
+    "log_mbh_msun": 6.78,
+    "log_mbh_err_plus": 0.16,
+    "log_mbh_err_minus": 0.26,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 6025595.860743581,
+    "mbh_err_plus_msun": 2684040.0388172334,
+    "mbh_err_minus_msun": 2714284.645917667,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 37.7,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 1398",
+    "log_mbh_msun": 8.03,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.08,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 107151930.52376048,
+    "mbh_err_plus_msun": 21673024.64555274,
+    "mbh_err_minus_msun": 18026836.710386083,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 24.8,
+    "mass_reference_table1_ids": [
+      6
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 6,
+        "bibliography_key": "Saglia:2016",
+        "citation": "Saglia R. P., et al., 2016",
+        "doi": "https://doi.org/10.3847/0004-637X/818/1/47"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 2273",
+    "log_mbh_msun": 6.97,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 9332543.007969905,
+    "mbh_err_plus_msun": 667456.9920300953,
+    "mbh_err_minus_msun": 622907.1084091086,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 31.6,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 2748",
+    "log_mbh_msun": 7.54,
+    "log_mbh_err_plus": 0.15,
+    "log_mbh_err_minus": 0.23,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 34673685.045253165,
+    "mbh_err_plus_msun": 14304196.891591497,
+    "mbh_err_minus_msun": 14256305.59855789,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 18.2,
+    "mass_reference_table1_ids": [
+      46
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 46,
+        "bibliography_key": "Atkinson:2005",
+        "citation": "Atkinson J. W., et al., 2005",
+        "doi": "https://doi.org/10.1111/j.1365-2966.2005.08904.x"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 2960",
+    "log_mbh_msun": 7.06,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 11481536.214968817,
+    "mbh_err_plus_msun": 821151.4931549933,
+    "mbh_err_minus_msun": 766343.1625927687,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 71.1,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 2974",
+    "log_mbh_msun": 8.23,
+    "log_mbh_err_plus": 0.05,
+    "log_mbh_err_minus": 0.05,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 169824365.2461746,
+    "mbh_err_plus_msun": 20721706.550150603,
+    "mbh_err_minus_msun": 18468240.402553886,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 21.5,
+    "mass_reference_table1_ids": [
+      8,
+      47
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 8,
+        "bibliography_key": "Hu:2008",
+        "citation": "Hu J., 2008",
+        "doi": "https://doi.org/10.1111/j.1365-2966.2008.13195.x"
+      },
+      {
+        "table1_reference_id": 47,
+        "bibliography_key": "Cappellari:2008",
+        "citation": "Cappellari M., et al., 2007",
+        "doi": "https://doi.org/10.1017/S1743921308017687"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3031",
+    "log_mbh_msun": 7.83,
+    "log_mbh_err_plus": 0.11,
+    "log_mbh_err_minus": 0.07,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 67608297.53919819,
+    "mbh_err_plus_msun": 19488061.456409946,
+    "mbh_err_minus_msun": 10064303.805482522,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 3.48,
+    "mass_reference_table1_ids": [
+      48
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 48,
+        "bibliography_key": "Devereux:2003",
+        "citation": "Devereux N., Ford H., Tsvetanov Z., Jacoby G., 2003",
+        "doi": "https://doi.org/10.1086/367595"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3079",
+    "log_mbh_msun": 6.38,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.1,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 2398832.91901949,
+    "mbh_err_plus_msun": 485198.58410711586,
+    "mbh_err_minus_msun": 493372.20105624176,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 16.5,
+    "mass_reference_table1_ids": [
+      49
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 49,
+        "bibliography_key": "Yamauchi:2004",
+        "citation": "Yamauchi A., Nakai N., Sato N., Diamond P., 2004",
+        "doi": "https://doi.org/10.1093/pasj/56.4.605"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3227",
+    "log_mbh_msun": 7.86,
+    "log_mbh_err_plus": 0.17,
+    "log_mbh_err_minus": 0.25,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 72443596.00749905,
+    "mbh_err_plus_msun": 34708334.516261876,
+    "mbh_err_minus_msun": 31705568.22708775,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g,s",
+    "mbh_method": "Gas dynamics + Stellar dynamics",
+    "adopted_distance_mpc": 21.1,
+    "mass_reference_table1_ids": [
+      50,
+      51
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 50,
+        "bibliography_key": "Hicks:2008",
+        "citation": "Hicks E. K. S., Malkan M. A., 2008",
+        "doi": "https://doi.org/10.1086/521650"
+      },
+      {
+        "table1_reference_id": 51,
+        "bibliography_key": "Davies:2006",
+        "citation": "Davies R. I., et al., 2006",
+        "doi": "https://doi.org/10.1086/504963"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3368",
+    "log_mbh_msun": 6.89,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.1,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 7762471.166286912,
+    "mbh_err_plus_msun": 1570071.8416829929,
+    "mbh_err_minus_msun": 1596521.1476720897,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g,s",
+    "mbh_method": "Gas dynamics + Stellar dynamics",
+    "adopted_distance_mpc": 10.7,
+    "mass_reference_table1_ids": [
+      9
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 9,
+        "bibliography_key": "Nowak:2010",
+        "citation": "Nowak N., Thomas J., Erwin P., Saglia R. P., Bender R., Davies R. I., 2010",
+        "doi": "https://doi.org/10.1111/j.1365-2966.2009.16167.x"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3393",
+    "log_mbh_msun": 7.49,
+    "log_mbh_err_plus": 0.05,
+    "log_mbh_err_minus": 0.06,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 30902954.32513592,
+    "mbh_err_plus_msun": 3770730.720117245,
+    "mbh_err_minus_msun": 3987606.285866726,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 55.8,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 3627",
+    "log_mbh_msun": 6.95,
+    "log_mbh_err_plus": 0.05,
+    "log_mbh_err_minus": 0.05,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 8912509.381337458,
+    "mbh_err_plus_msun": 1087490.6186625417,
+    "mbh_err_minus_msun": 969227.0340946363,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 10.6,
+    "mass_reference_table1_ids": [
+      6
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 6,
+        "bibliography_key": "Saglia:2016",
+        "citation": "Saglia R. P., et al., 2016",
+        "doi": "https://doi.org/10.3847/0004-637X/818/1/47"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4151",
+    "log_mbh_msun": 7.68,
+    "log_mbh_err_plus": 0.15,
+    "log_mbh_err_minus": 0.6,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 47863009.2322638,
+    "mbh_err_plus_msun": 19745288.306934386,
+    "mbh_err_minus_msun": 35840364.886089675,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g,s",
+    "mbh_method": "Gas dynamics + Stellar dynamics",
+    "adopted_distance_mpc": 19.0,
+    "mass_reference_table1_ids": [
+      50,
+      52
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 50,
+        "bibliography_key": "Hicks:2008",
+        "citation": "Hicks E. K. S., Malkan M. A., 2008",
+        "doi": "https://doi.org/10.1086/521650"
+      },
+      {
+        "table1_reference_id": 52,
+        "bibliography_key": "Onken:2014",
+        "citation": "Onken C. A., et al., 2014",
+        "doi": "https://doi.org/10.1088/0004-637X/791/1/37"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4258",
+    "log_mbh_msun": 7.6,
+    "log_mbh_err_plus": 0.01,
+    "log_mbh_err_minus": 0.01,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 39810717.05534969,
+    "mbh_err_plus_msun": 927310.7250615284,
+    "mbh_err_minus_msun": 906202.555921644,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 7.6,
+    "mass_reference_table1_ids": [
+      28
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 28,
+        "bibliography_key": "Humphreys:2013",
+        "citation": "Humphreys E. M. L., Reid M. J., Moran J. M., Greenhill L. J., Argon A. L., 2013",
+        "doi": "https://doi.org/10.1088/0004-637X/775/1/13"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4303",
+    "log_mbh_msun": 6.58,
+    "log_mbh_err_plus": 0.07,
+    "log_mbh_err_minus": 0.26,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 3801893.9632056127,
+    "mbh_err_plus_msun": 664941.958304022,
+    "mbh_err_minus_msun": 1712597.8323515719,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 12.3,
+    "mass_reference_table1_ids": [
+      53
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 53,
+        "bibliography_key": "Pastorini:2007",
+        "citation": "Pastorini G., et al., 2007",
+        "doi": "https://doi.org/10.1051/0004-6361:20066784"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4388",
+    "log_mbh_msun": 6.9,
+    "log_mbh_err_plus": 0.04,
+    "log_mbh_err_minus": 0.05,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 7943282.347242822,
+    "mbh_err_plus_msun": 766353.5523179928,
+    "mbh_err_minus_msun": 863824.503401434,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 17.8,
+    "mass_reference_table1_ids": [
+      40
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 40,
+        "bibliography_key": "Tadhunter:2003",
+        "citation": "Tadhunter C., Marconi A., Axon D., Wills K., Robinson T. G., Jackson N., 2003",
+        "doi": "https://doi.org/10.1046/j.1365-8711.2003.06588.x"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch. Citation warning: Table 1 gives reference 40 (Tadhunter et al. 2003) for this maser mass; this is reproduced exactly and may be a source-table miscitation. No silent correction has been made."
+  },
+  {
+    "name": "NGC 4395",
+    "log_mbh_msun": 5.64,
+    "log_mbh_err_plus": 0.22,
+    "log_mbh_err_minus": 0.12,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 436515.8322401656,
+    "mbh_err_plus_msun": 287920.1278348235,
+    "mbh_err_minus_msun": 105384.71075757482,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 4.76,
+    "mass_reference_table1_ids": [
+      54
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 54,
+        "bibliography_key": "Brok:2015",
+        "citation": "den Brok M., et al., 2015",
+        "doi": "https://doi.org/10.1088/0004-637X/809/1/101"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4501",
+    "log_mbh_msun": 7.13,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.08,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 13489628.825916532,
+    "mbh_err_plus_msun": 2728472.147672767,
+    "mbh_err_minus_msun": 2269444.2828969024,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 11.2,
+    "mass_reference_table1_ids": [
+      6
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 6,
+        "bibliography_key": "Saglia:2016",
+        "citation": "Saglia R. P., et al., 2016",
+        "doi": "https://doi.org/10.3847/0004-637X/818/1/47"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4594",
+    "log_mbh_msun": 8.81,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 645654229.0346563,
+    "mbh_err_plus_msun": 46176741.88427997,
+    "mbh_err_minus_msun": 43094642.96029699,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 9.55,
+    "mass_reference_table1_ids": [
+      55
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 55,
+        "bibliography_key": "Jardel:2011",
+        "citation": "Jardel J. R., et al., 2011",
+        "doi": "https://doi.org/10.1088/0004-637X/739/1/21"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4699",
+    "log_mbh_msun": 8.34,
+    "log_mbh_err_plus": 0.05,
+    "log_mbh_err_minus": 0.05,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 218776162.3949552,
+    "mbh_err_plus_msun": 26694729.173548162,
+    "mbh_err_minus_msun": 23791702.419151038,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 23.7,
+    "mass_reference_table1_ids": [
+      6
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 6,
+        "bibliography_key": "Saglia:2016",
+        "citation": "Saglia R. P., et al., 2016",
+        "doi": "https://doi.org/10.3847/0004-637X/818/1/47"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 4736",
+    "log_mbh_msun": 6.78,
+    "log_mbh_err_plus": 0.09,
+    "log_mbh_err_minus": 0.11,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 6025595.860743581,
+    "mbh_err_plus_msun": 1387506.5522655956,
+    "mbh_err_minus_msun": 1348244.4478716003,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 4.41,
+    "mass_reference_table1_ids": [
+      56
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 56,
+        "bibliography_key": "Kormendy:2011",
+        "citation": "Private value from K. Gebhardt, cited by Kormendy J., Bender R., Cornell M. E., 2011",
+        "doi": "https://doi.org/10.1038/nature09694",
+        "note": "Compilation explicitly labels this a private value; linked paper is contextual citation."
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch. Source reference 56 is explicitly a private value from K. Gebhardt."
+  },
+  {
+    "name": "NGC 4826",
+    "log_mbh_msun": 6.07,
+    "log_mbh_err_plus": 0.1,
+    "log_mbh_err_minus": 0.12,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 1174897.5549395303,
+    "mbh_err_plus_msun": 304210.8332286768,
+    "mbh_err_minus_msun": 283646.6168057844,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "s",
+    "mbh_method": "Stellar dynamics",
+    "adopted_distance_mpc": 5.55,
+    "mass_reference_table1_ids": [
+      56
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 56,
+        "bibliography_key": "Kormendy:2011",
+        "citation": "Private value from K. Gebhardt, cited by Kormendy J., Bender R., Cornell M. E., 2011",
+        "doi": "https://doi.org/10.1038/nature09694",
+        "note": "Compilation explicitly labels this a private value; linked paper is contextual citation."
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch. Source reference 56 is explicitly a private value from K. Gebhardt."
+  },
+  {
+    "name": "NGC 4945",
+    "log_mbh_msun": 6.15,
+    "log_mbh_err_plus": 0.3,
+    "log_mbh_err_minus": 0.3,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 1412537.5446227554,
+    "mbh_err_plus_msun": 1405845.3866416996,
+    "mbh_err_minus_msun": 704591.7602386166,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 3.72,
+    "mass_reference_table1_ids": [
+      57
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 57,
+        "bibliography_key": "Greenhill:1997",
+        "citation": "Greenhill L. J., Moran J. M., Herrnstein J. R., 1997",
+        "doi": "https://doi.org/10.1086/310643"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch. Table 1 footnote d assigns a factor-of-two uncertainty (tabulated as 0.30 dex)."
+  },
+  {
+    "name": "NGC 5055",
+    "log_mbh_msun": 8.94,
+    "log_mbh_err_plus": 0.09,
+    "log_mbh_err_minus": 0.11,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 870963589.9560796,
+    "mbh_err_plus_msun": 200555715.28152525,
+    "mbh_err_minus_msun": 194880614.56409776,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 8.87,
+    "mass_reference_table1_ids": [
+      58
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 58,
+        "bibliography_key": "Blais-Ouellette:2004",
+        "citation": "Blais-Ouellette S., Amram P., Carignan C., Swaters R., 2004",
+        "doi": "https://doi.org/10.1051/0004-6361:20034263"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 5495",
+    "log_mbh_msun": 7.04,
+    "log_mbh_err_plus": 0.08,
+    "log_mbh_err_minus": 0.09,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 10964781.961431852,
+    "mbh_err_plus_msun": 2217785.4241322223,
+    "mbh_err_minus_msun": 2052272.5800943933,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 101.1,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 5765b",
+    "log_mbh_msun": 7.72,
+    "log_mbh_err_plus": 0.03,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 52480746.02497723,
+    "mbh_err_plus_msun": 3753386.4940576777,
+    "mbh_err_minus_msun": 3502864.0881326646,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 133.9,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 6264",
+    "log_mbh_msun": 7.51,
+    "log_mbh_err_plus": 0.02,
+    "log_mbh_err_minus": 0.02,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 32359365.69296281,
+    "mbh_err_plus_msun": 1525049.920957394,
+    "mbh_err_minus_msun": 1456411.3678268902,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 153.9,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 6323",
+    "log_mbh_msun": 7.02,
+    "log_mbh_err_plus": 0.02,
+    "log_mbh_err_minus": 0.02,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 10471285.480508985,
+    "mbh_err_plus_msun": 493496.48092284426,
+    "mbh_err_minus_msun": 471285.480508985,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 116.9,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 6926",
+    "log_mbh_msun": 7.74,
+    "log_mbh_err_plus": 0.26,
+    "log_mbh_err_minus": 0.74,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 54954087.38576248,
+    "mbh_err_plus_msun": 45045912.61423752,
+    "mbh_err_minus_msun": 44954087.38576248,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 87.6,
+    "mass_reference_table1_ids": [
+      37
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 37,
+        "bibliography_key": "Greenhill:2003",
+        "citation": "Greenhill L. J., Kondratko P. T., Lovell J. E. J., Kuiper T. B. H., Moran J. M., Jauncey D. L., Baines G. P., 2003a",
+        "doi": "https://doi.org/10.1086/367602"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "NGC 7582",
+    "log_mbh_msun": 7.67,
+    "log_mbh_err_plus": 0.09,
+    "log_mbh_err_minus": 0.08,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 46773514.128719814,
+    "mbh_err_plus_msun": 10770479.604995854,
+    "mbh_err_minus_msun": 7868999.629291765,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "g",
+    "mbh_method": "Gas dynamics",
+    "adopted_distance_mpc": 19.9,
+    "mass_reference_table1_ids": [
+      59
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 59,
+        "bibliography_key": "Wold:2006",
+        "citation": "Wold M., Lacy M., K\\\"aufl H. U., Siebenmorgen R., 2006",
+        "doi": "https://doi.org/10.1051/0004-6361:20053385"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "UGC 3789",
+    "log_mbh_msun": 7.06,
+    "log_mbh_err_plus": 0.02,
+    "log_mbh_err_minus": 0.03,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 11481536.214968817,
+    "mbh_err_plus_msun": 541108.1312052887,
+    "mbh_err_minus_msun": 766343.1625927687,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 49.6,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  },
+  {
+    "name": "UGC 6093",
+    "log_mbh_msun": 7.45,
+    "log_mbh_err_plus": 0.04,
+    "log_mbh_err_minus": 0.04,
+    "mass_units": "log10(M_BH / M_sun)",
+    "uncertainty": "1-sigma; positive upper/lower error magnitudes in dex",
+    "mbh_msun": 28183829.31264455,
+    "mbh_err_plus_msun": 2719125.0124913715,
+    "mbh_err_minus_msun": 2479871.484955903,
+    "linear_conversion": "10^log_mbh; bounds converted from published log mass and asymmetric dex errors",
+    "mbh_method_code": "m",
+    "mbh_method": "Maser",
+    "adopted_distance_mpc": 164.1,
+    "mass_reference_table1_ids": [
+      41
+    ],
+    "mass_sources": [
+      {
+        "table1_reference_id": 41,
+        "bibliography_key": "Gao:2017",
+        "citation": "Gao F., et al., 2017",
+        "doi": "https://doi.org/10.3847/1538-4357/834/1/52"
+      }
+    ],
+    "compilation_citation": "Davis, Graham & Seigar (2017), MNRAS 471, 2187–2203, Table 1",
+    "compilation_doi": "https://doi.org/10.1093/mnras/stx1794",
+    "source_url": "https://arxiv.org/pdf/1707.04001v3",
+    "source_table": "Table 1, columns 6 and 9–11",
+    "notes": "Adopted direct-measurement mass in Davis et al. (2017), adjusted to their adopted distance; not predicted from spiral pitch."
+  }
+]
