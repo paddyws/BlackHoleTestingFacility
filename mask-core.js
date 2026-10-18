@@ -1,0 +1,11 @@
+(function(root){
+'use strict';
+function fitsRuns(a,w,h){let runs=[],start=-1;for(let i=0;i<w*h;i++){let y=Math.floor(i/w),x=i%w,v=a[(h-1-y)*w+x];if(v&&start<0)start=i;if(!v&&start>=0){runs.push([start,i-start]);start=-1}}if(start>=0)runs.push([start,w*h-start]);return runs}
+function fromRuns(runs,w,h){if(!Number.isInteger(w)||!Number.isInteger(h)||w<1||h<1||w*h>25000000)throw Error('Invalid shape');let a=new Uint8Array(w*h),end=0;for(const r of runs){if(!Array.isArray(r)||r.length!==2||!r.every(Number.isInteger)||r[0]<end||r[1]<=0||r[0]+r[1]>w*h)throw Error('Invalid or overlapping runs');for(let i=r[0];i<r[0]+r[1];i++)a[(h-1-Math.floor(i/w))*w+i%w]=1;end=r[0]+r[1]}return a}
+function point(clientX,clientY,rect,view){return[(clientX-rect.left-view.x)/view.scale,(clientY-rect.top-view.y)/view.scale]}
+function circle(a,w,h,x,y,r,val){for(let j=Math.max(0,Math.floor(y-r));j<Math.min(h,Math.ceil(y+r));j++)for(let i=Math.max(0,Math.floor(x-r));i<Math.min(w,Math.ceil(x+r));i++)if((i+.5-x)**2+(j+.5-y)**2<=r*r)a[j*w+i]=val}
+function line(a,w,h,p,q,r,val){let n=Math.max(1,Math.ceil(Math.hypot(q[0]-p[0],q[1]-p[1])/Math.max(.5,r/3)));for(let k=0;k<=n;k++)circle(a,w,h,p[0]+(q[0]-p[0])*k/n,p[1]+(q[1]-p[1])*k/n,r,val)}
+function ellipse(a,w,h,p,q,val){let cx=(p[0]+q[0])/2,cy=(p[1]+q[1])/2,rx=Math.abs(q[0]-p[0])/2,ry=Math.abs(q[1]-p[1])/2;if(rx<.5||ry<.5)return;for(let y=Math.max(0,Math.floor(cy-ry));y<Math.min(h,Math.ceil(cy+ry));y++)for(let x=Math.max(0,Math.floor(cx-rx));x<Math.min(w,Math.ceil(cx+rx));x++)if(((x+.5-cx)/rx)**2+((y+.5-cy)/ry)**2<=1)a[y*w+x]=val}
+function polygon(a,w,h,pts,val){if(pts.length<3)return;for(let y=Math.max(0,Math.floor(Math.min(...pts.map(p=>p[1]))));y<Math.min(h,Math.ceil(Math.max(...pts.map(p=>p[1]))));y++)for(let x=Math.max(0,Math.floor(Math.min(...pts.map(p=>p[0]))));x<Math.min(w,Math.ceil(Math.max(...pts.map(p=>p[0]))));x++){let inside=false;for(let i=0,j=pts.length-1;i<pts.length;j=i++){let p=pts[i],q=pts[j];if((p[1]>y+.5)!=(q[1]>y+.5)&&(x+.5)<(q[0]-p[0])*(y+.5-p[1])/(q[1]-p[1])+p[0])inside=!inside}if(inside)a[y*w+x]=val}}
+const api={fitsRuns,fromRuns,point,circle,line,ellipse,polygon};if(typeof module!=='undefined')module.exports=api;root.MaskCore=api;
+})(typeof window!=='undefined'?window:globalThis);
